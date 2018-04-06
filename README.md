@@ -1,2 +1,2 @@
 # SCORPIO-MINI
-bóbr
+BEAVER czyli BOBER
