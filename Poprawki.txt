@@ -1,2 +1,1 @@
-﻿Rama do poprawy. Nie wydrukują się chyba zaczepy w dolnym module
-. A.B.
+﻿
