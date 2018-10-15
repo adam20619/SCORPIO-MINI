@@ -1,5 +1,5 @@
 # SCORPIO-MINI
-BEAVER czyli BOBER
-===========
+## BEAVER czyli BOBER
+###### ver. 0.2 *beta*
 
-konieczność zgenerowania stli. Model został poprawiony 
+stl zgenerowane
